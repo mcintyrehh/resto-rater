@@ -1,0 +1,14 @@
+{
+  "name": "resto-rater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rater.js",
+  "scripts": {
+    "start": "node ./rater.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
